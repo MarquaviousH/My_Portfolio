@@ -4,3 +4,5 @@
 
 layout: home
 ---
+Hi, I'm Marquavious Hardwick
+Welcome to my ePortfolio

@@ -20,10 +20,6 @@ ol li {
     font-size: 1.2rem;
 }
 
-body {
-    color: brown;
-}
-
 .container {
     max-width: 1100px;
     margin: auto;
@@ -34,10 +30,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
-    background-color: #dddfff;
-    position: sticky;
-    top: 0;
+    background-color: #3540dd;
 }
 
 li {
@@ -57,5 +50,9 @@ li a:hover {
 }
 
 .active {
-    background-color: #04AA6D;
+    background-color: #e0a912;
+}
+
+body{
+    background-color: #69c6f1;
 }
