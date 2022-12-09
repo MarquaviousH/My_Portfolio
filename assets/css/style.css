@@ -1,19 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 
-a,
-p,
-ul li,
-ol li,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+*{
     font-family: 'Noto Serif', serif;
 }
 
-a,
+a,b,
 p,
 ul li,
 ol li {
@@ -49,10 +40,11 @@ li a:hover {
     background-color: #111;
 }
 
-.active {
-    background-color: #e0a912;
-}
-
 body{
     background-color: #69c6f1;
+}
+
+.tab{
+    display: inline-block;
+    margin-left: 45px;
 }
