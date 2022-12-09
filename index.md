@@ -4,5 +4,5 @@
 
 layout: home
 ---
-Hi, I'm Marquavious Hardwick
-Welcome to my ePortfolio
+Hello, My name is Marquavious Hardwick and welcome to my ePortofolio. 
+Currently Im a Senior at Georgia Southern University, graduating in December 2022.
