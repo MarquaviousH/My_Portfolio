@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+*{
+    font-family: 'Noto Serif', serif;
+}
+
+a,b,
+p,
+ul li,
+ol li {
+    font-size: 1.2rem;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+}
+
+ul.navBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3540dd;
+}
+
+li.navBar {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+body{
+    background-color: #69c6f1;
+}
+
+.tabGraduated{
+    display: inline-block;
+    margin-left: 270px;
+}
+.tabPresident{
+    display: inline-block;
+    margin-left: 800px;
+}
+
+.tabMemeber{
+    display: inline-block;
+    margin-left: 800px;
+}
