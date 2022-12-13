@@ -4,5 +4,5 @@
 
 layout: home
 ---
-Hello, My name is Marquavious Hardwick and welcome to my ePortofolio. 
+Hello, My name is Marquavious Hardwick and welcome to my ePortfolio. 
 I am a graduate from Georgia Southern University.
