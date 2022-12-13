@@ -19,7 +19,7 @@ You can find the source code for Jekyll at GitHub:
  -->
 
 
-Background: 
+<h1>Background:</h1> 
 
 Ever since I was young, I have been interested in technology. I can still remember the times when i would open my toys to see what was inside of them, to find what made them work. When I was in high school, I participated in a event called Hour of Code. We would go to the website and choose coding activities that interested us. I did an activity that let a user type in some code to move through a dungeon to get to treasure or exit. This was my first time coding. 
 

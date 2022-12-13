@@ -13,8 +13,12 @@ ol li {
 }
 
 .container {
-    max-width: 1440px;
-    margin: auto;
+    max-width: 1240px;
+    margin: 10px auto;
+}
+
+p.large{
+    font-size: large;
 }
 
 ul {
@@ -44,16 +48,7 @@ li a:hover {
 body {
     background-color: #69c6f1;
 }
-
-.tab {
-    display: inline-block;
-    margin-left: 45px;
-}
-
-p.center {
+footer{
     text-align: center;
-}
-
-p.large {
-    font-size: 100%;
+    margin: 10px;
 }

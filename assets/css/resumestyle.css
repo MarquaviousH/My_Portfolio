@@ -12,8 +12,8 @@ ol li {
 }
 
 .container {
-    max-width: 1440px;
-    margin: auto;
+    max-width: 1240px;
+    margin: 10px auto;
 }
 
 ul.navBar {
@@ -55,5 +55,10 @@ body{
 
 .tabMemeber{
     display: inline-block;
-    margin-left: 800px;
+    margin-left: 730px;
+}
+
+footer{
+    text-align: center;
+    margin: 10px;
 }
